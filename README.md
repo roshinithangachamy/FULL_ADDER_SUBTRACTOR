@@ -1,4 +1,4 @@
-**EX-2**
+**EX-4**
 <p align='center'><b>IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR CIRCUIT </b>
 
 **DATE:**
